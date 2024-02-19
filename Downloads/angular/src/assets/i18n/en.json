@@ -1,0 +1,97 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "VISHAL_CV.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "I have <span class='underline'>1.5 years of experience</span> developing systems, interfaces, websites, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular and React applying good practices and development standards.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In my <span class='underline'>1.5 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+        "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "Comviva",
+            "Title": "Product Developer",
+            "Date": "OCTOBER 2022 - Present",
+            "Description": [
+                "Ensured a seamless user experience by resolving style issues and implementing a responsive design for all screen sizes",
+                "Enhanced application performance by approximately 30% through code refactoring, redundancy removal,reduced unnecessary component re-renders, and the implementation of unit test cases to proactively mitigate potential bugs.",
+                "Produced stunning visual elements and re-usable components of the app by translating UI/UX design into code using HTML, CSS, Typescript and Angular",
+                "Implementation of lazy loading concept improved front-end performance by 15% and documented application changes & worked on updates.",
+                "Implemented smart polling concept which gave real-time transaction updates to the users"
+            ]
+        },
+        
+        {
+            "Tab": "Relinns",
+            "Title": "Frontend developer intern",
+            "Date": "FEBRUARY 2022 - MAY 2022",
+            "Description": [
+                "Developed and maintained web applications using React.",
+                "Coding of API requests with RxJS.",
+                "Creation of modules with complex reactive forms",
+                "Improved website performance by optimizing images and implementing caching techniques.",
+                "Collaborated with designers and back-end developers to create responsive and user-friendly web experiences"
+            ]
+        }
+    ],
+    "FeatureProjects.Title": "Projects that I was a part of",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "WIDO TV",
+            "Description": "Wido is a video application that allows you to watch local content exclusively from your  <span class='underline'>phone</span> or <span class='underline'>tablet</span> with a user-friendly interface, the app offers a smooth browsing experience whether you're connected to a Wi-Fi network or using 3G/4G.",
+            "imgs": [
+                "assets/images/school/image1.PNG",
+                "assets/images/school/image2.PNG"
+            ],
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "Angular Material",
+                "RxJS"
+            ]
+        },
+        {
+            "Title": "DIGITAL MARKETPLACE",
+            "Description": "This is a project to design and build a full Commerce <span class='underline'>website</span> and management system for customers and product management team. Customers can view the product lists at the home page, go to the detail pages, add products to their carts and log in to the customer page. Management team can add or edit products information (pictures, prices, brand and so on) on the webpage",
+            "imgs": [
+                "assets/images/mazhr/image1.PNG",
+                "assets/images/mazhr/image2.PNG"
+            ],
+            "Technologies": [
+                "React",
+                "SASS",
+                "Material",
+                "Babel",
+                "NodeJS"
+            ]
+        },
+        {
+            "Title": "Needle",
+            "Description": "Needle Music is a pioneer in the digital music industry as it allows users to create and manage their first and only Audiobiography. It built with the <span class='underline'>Spotify SDK</span> Integration.",
+            "imgs": [
+                "assets/images/mazhr/needle.PNG"
+            ],
+            "demoLink": "https://www.elffplus.com/",
+            "Technologies": [
+                "React",
+                "ChartJS",
+                "SASS",
+                "NodeJS",
+                "Python"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+}
